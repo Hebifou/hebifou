@@ -41,6 +41,6 @@ Exploring ways to make **code more human**.
 ---
 
 <p align="center">
-  <i>"Where data becomes a medium of emotion."</i><br>
-  🕊️
+  <i>"Where the wild data lives."</i><br>
+
 </p>
