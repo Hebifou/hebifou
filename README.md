@@ -41,6 +41,6 @@ Exploring ways to make **code more human**.
 ---
 
 <p align="center">
-  <i>"Where the wild data lives."</i><br>
+  <i>"Where the wild data is"</i><br>
 
 </p>
