@@ -25,7 +25,8 @@ Founder of [Anifou.com](https://www.anifou.com)
 
 ---
 
-### Selected Projects  
+### Selected Projects
+- [**htif – how the internet feels**](https://github.com/Hebifou/htif) — Concept prototype exploring how digital narratives and emotions evolve across online discourse  
 - [**dataart_lifeinplastic**](https://github.com/Hebifou/dataart_lifeinplastic) — Animated world map of projected plastic waste  
 - [**music-creator-analyse**](https://github.com/Hebifou/music-creator-analyse) — Data-driven matching tool for artists & media  
 - [**travel-tide-mastery**](https://github.com/Hebifou/travel-tide-mastery) — Customer clustering with PCA & HDBSCAN  
