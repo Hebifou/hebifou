@@ -34,11 +34,6 @@ Founder of [Anifou.com](https://www.anifou.com)
 
 ---
 
-### Activity
-![GitHub Metrics](https://metrics.lecoq.io/Hebifou?template=classic&config.timezone=Europe%2FBerlin)
-
----
-
 <p align="center">
   <i>"Between algorithms and things."</i><br>
 
