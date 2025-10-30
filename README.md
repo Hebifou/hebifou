@@ -1,4 +1,4 @@
-# Hi, I'm Hiba  
+Hi, I'm Hiba  
 
 I build digital experiences at the intersection of **data, art, and storytelling**.  
  
@@ -6,14 +6,16 @@ Founder of [Anifou.com](https://www.anifou.com)
 
 ---
 
-### Current Focus
+Current Focus
+
 - Data storytelling & creative analytics  
 - Visual computing and environmental modeling  
 - Streamlit, Flask & Python for interactive apps  
 
 ---
 
-### Tech & Tools  
+Tech & Tools  
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-092E20?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
@@ -25,7 +27,8 @@ Founder of [Anifou.com](https://www.anifou.com)
 
 ---
 
-### Selected Projects
+Selected Projects
+
 - [**htif – how the internet feels**](https://github.com/Hebifou/htif) — Concept prototype exploring how digital narratives and emotions evolve across online discourse  
 - [**dataart_lifeinplastic**](https://github.com/Hebifou/dataart_lifeinplastic) — Animated world map of projected plastic waste  
 - [**music-creator-analyse**](https://github.com/Hebifou/music-creator-analyse) — Data-driven matching tool for artists & media  
